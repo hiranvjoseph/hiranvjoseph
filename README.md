@@ -12,6 +12,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hiranvjoseph&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiranvjoseph&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 💬 <details>
+<p align="center">
+  <a href="https://github.com/hiranvjoseph">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiranvjoseph&theme=transparent" />
+  </a>
+  <a href="https://github.com/hiranvjoseph">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinjosep&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/hiranvjoseph">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?hiranvjoseph=wervlad&theme=transparent" />
+  </a>
+  <a href="https://github.com/hiranvjoseph">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranvjoseph&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hiranvjoseph&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
