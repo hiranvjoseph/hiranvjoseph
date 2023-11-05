@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:⚡
+![](https://avatars.githubusercontent.com/u/32574833?v=4)
+
 🔭 I’m currently working as Data Analyst<br>👯 I’m looking to collaborate on Data related projects<br>🤝 I’m looking for help with Data Visualization and Data Analysis <br>🌱 I’m currently learning NLP<br>💬 Ask me about Data Analysis and Data visualization<br>⚡ Fun fact 
 
 
